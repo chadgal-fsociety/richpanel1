@@ -1,0 +1,19 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+.parentDiv{
+    background-color: #1e4d90;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainDiv{
+   
+    background-color: white;
+    
+}
